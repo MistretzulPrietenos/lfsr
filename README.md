@@ -1,1 +1,1 @@
-# Implementation of a simple linear feedback shift register 
+Implementation of a simple linear feedback shift register 
